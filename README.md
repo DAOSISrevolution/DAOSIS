@@ -59,5 +59,21 @@ Docs: [docs/governance.md](docs/governance.md) • [docs/tokenomics.md](docs/tok
 ## 🔍 GitHub Topics
 `decentralized-application` `dao` `blockchain` `ai` `self-improvement` `goal-tracking` `collective-intelligence` `open-source` `community-governance` `tokenomics`
 
-## 📑 License
-MIT
+## 📜 License & Governance
+
+DAOSIS is open source, but with layered protections to keep it community-owned and scam-resistant:
+
+- **Codebase**: Licensed under [AGPL-3.0](LICENSE).  
+  → If you run a modified version of DAOSIS as a public service, you must also publish your source code.
+
+- **Documentation & Whitepapers**: Licensed under [CC-BY 4.0](docs/LICENSE).  
+  → You are free to share and adapt, but must provide attribution.
+
+- **Name & Logo**: “DAOSIS” and the DAOSIS logo are protected trademarks.  
+  → Forks must use a different name/branding.
+
+- **Tokenomics & DAO Governance**: See [DAO_TERMS.md](DAO_TERMS.md).  
+  → Transformation Coin and Founders Coin are governed by community contribution rules, fraud prevention policies, and DAO votes. Forks cannot access the official coin economy.
+
+This stack ensures DAOSIS stays open for innovation, but resistant to scams, closed forks, or corporate capture.
+
