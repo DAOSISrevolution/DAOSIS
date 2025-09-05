@@ -26,7 +26,7 @@ Then DAOSIS layers in:
 7. **Reward** — https://drive.google.com/file/d/1ePTbsSed-nInGoNL3q-MSF6z-M47fdNR/view?usp=drive_link  
 8. **Full Cycle** — https://drive.google.com/file/d/1IUBQYZZsB7FkdGUeURhQAK-X8_D-ZNzY/view?usp=drive_link  
 
-- 📑 **Pitch Deck (PDF):** [docs/pitch-deck.pdf](docs/pitch-deck.pdf)
+- 📑 **Pitch Deck (PDF):** 📄 [Pitch Deck (PDF)](pitch-deck.pdf)
 
 ---
 
