@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(vercel login *)",
+      "Bash(tee /tmp/vercel_login.log)"
+    ]
+  }
+}
